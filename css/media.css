@@ -1,0 +1,352 @@
+
+@media(min-width:2560px){
+
+    .banner{
+        background-size: 60%;
+    }
+    .bnr-img{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .provide{
+        min-height: 100vh;
+    }
+    .foot-cont{
+        margin-top: 100px;
+    padding-left: 100px;
+    }
+    .foot-cont p{
+        font-size: 17px;
+    }
+    .foot-cont a{
+        margin-left: 10px;
+    }
+    .foot-logo img{
+        width: 60%;
+        margin-top: 120px;
+    }
+    .foot-img img{
+        width: 100%;
+        margin-top: 50px;
+        margin-left: 30px;
+    }
+    
+      
+    
+
+
+}
+@media(min-width:1990px){
+
+}
+@media(min-width:1440px){
+
+}
+@media(max-width:1024px){
+   
+    
+    
+
+}
+@media(max-width:768px){
+    .collapse .d-flex .btn-outline-success {
+        color: #000;
+        border: 1px solid #198754;
+    }
+    .nav-item .nav-link{
+        color:#000;
+    }
+    
+    .our-proc{
+        width: 26%;
+    }
+    .pro-1{
+        top: -8%;
+        right: 30%;
+    
+    }
+    .our-service{
+        width: 45%;
+        margin-left: 20px;
+    }
+    .servc-button button{
+        padding: 2px 4px;
+        margin-bottom: 20px;
+    }
+    .our-proc{
+        width: 70%;
+        margin-bottom: 15px;
+    }
+    .proces-sect h2{
+        padding-right: 30px;
+    }
+    .pro-1{
+        top: -14%;
+        right: 43%;
+    
+    }
+    .foot-img img{
+        margin-top: 160px;
+
+    }
+    .foot-cont{
+        flex-wrap: wrap;
+    }
+    .foot-cont p{
+        font-size: 10px;
+    }
+    .foot-cont a{
+        padding: 5px 10px ;
+        font-size: 10px;
+    }
+   
+    
+}
+@media(max-width:575px){
+    .nav-item .nav-link{
+        color:#000;
+    }
+    .bnr-img{
+        display: none;
+    }
+    .collapse .d-flex .btn-outline-success {
+        color: #000;
+        border: 1px solid #198754;
+    }
+    .hero-part{
+        margin-bottom: 0px;
+    }
+    .easy-part{
+        width: 40%;
+    }
+    .roket-icon img{
+        width: 40px;
+        height: 35px;
+    }
+    .roket-icon h5{
+        font-size: 18px;
+    }
+    .hero-four{
+       display: none;
+    
+    }
+    .our-service{
+        width: 40%;
+        margin-left: 40px;
+    }
+    .our-proc{
+        width: 65%;
+        margin-bottom: 15px;
+    }
+    .pro-1{
+        top: -8%;
+        right: 40%;
+    
+    }
+    .easy-part{
+        flex-wrap: wrap;
+    }
+    .foot-cont p{
+        font-size: 10px;
+    }
+    .foot-cont a{
+        padding: 0px ;
+        font-size: 10px;
+    }
+    .foot-img img{
+        width: 60%;
+        margin-left: 160px;
+    }
+    .foot-logo{
+        width: 80%;
+    }
+    
+    
+    
+    
+}
+@media(max-width:425px){
+    .banner-part h1{
+        font-size: 30px;
+    }
+    .collapse .d-flex .btn-outline-success {
+        color: #000;
+        border: 1px solid #198754;
+    }
+    .container-fluid img{
+        width:120px ;
+    }
+    .hero-two{
+        width: 300px;
+    }
+    .hero-part h1{
+        font-size: 30px;
+    }
+    .hero-part p{
+        font-size: 14px;
+    }
+    .roket-part p{
+        margin: auto;
+        font-size: 14px;
+     }
+    .easy-part{
+        width: 70%;
+    }
+    .our-proc{
+        width: 55%;
+        margin-bottom: 15px;
+    }
+    .pro-1{
+        top: -8%;
+        right: 35%;
+    
+    }
+    .our-service{
+        margin-left: 30px;
+    }
+    .servc-button button{
+        margin-top: 10px;
+        margin-bottom: 15px;
+        padding: 4px;
+        font-size: 12px;
+    }
+    .foot-cont{
+        flex-wrap: wrap;
+       width: 80%;
+       margin-left: 150px;
+    }
+    .foot-cont a{
+        padding:5px 8px;
+        font-size: 10px;
+    }
+    .foot-cont p{
+        font-size: 10px;
+    }
+    .foot-img img {
+            width: 100%;
+            margin-left: 0px;
+            margin-top: 0;
+        }
+}
+@media(max-width:375px){
+    .collapse .d-flex .btn-outline-success {
+        color: #000;
+        border: 1px solid #198754;
+    }
+    .row-two{
+        padding-top:0px;
+    }
+    .live-cl{
+        margin-top: 30px;
+    }
+    .cont_sect{
+        padding: 0;
+    }
+    .roket-part p{
+       margin: auto;
+       font-size: 14px;
+    }
+    .our-proc{
+        width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 70px;
+    }
+    .pro-1{
+        top: -8%;
+        right: 52%;
+    }
+    .proces-sect h2 {
+        padding-right: 20px;
+    }
+    .foot-img img {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 0;
+    }
+    .foot-cont{
+        flex-wrap: wrap;
+       width: 80%;
+       padding-right: 0%;
+
+    }
+    .foot-cont a{
+        padding: 2px 5px;
+        font-size: 10px;
+    }
+    .foot-cont p{
+        font-size: 10px;
+    }
+    
+}
+@media(max-width:320px){
+    .collapse .d-flex .btn-outline-success {
+        color: #000;
+        border: 1px solid #198754;
+    }
+    .banner-part h1{
+        font-size: 40px;
+
+    }
+    
+    .hero-part h1{
+        font-size: 40px;
+    }
+    .hero-part p{
+        font-size: 13px;
+    }
+    .roket-part{
+        width: 100%;
+        margin: auto;
+    }
+    .get_money{
+        width: 100%;
+        margin: auto;
+       margin-bottom: 20px;
+    }
+    .get_job{
+        width: 100%;
+        margin: auto;
+    }
+    .our-proc{
+        width: 100%;
+        margin: auto;
+        padding-left: 0%;
+        padding-right: 90px;
+    } 
+    .pro-1{
+        top: -8%;
+        right: 56%;
+    
+    }
+    .serv-list{
+        margin: auto;
+    }
+    .our-service ul{
+      padding: 0%;
+       
+    } 
+    .foot-row1 h1 {
+        font-size: 35px;
+    }
+    .foot-img img {
+        width: 100%;
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .foot-cont{
+        flex-wrap: wrap;
+        margin-left: 90px;
+    }
+    .foot-cont a{
+        padding:2px;
+        font-size: 10px;
+    }
+    .foot-cont p{
+        font-size: 10px;
+    }
+    .foot-logo {
+        width: 100%;
+        padding-left: 0;
+    }
+}
