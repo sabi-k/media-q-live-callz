@@ -567,6 +567,12 @@ h1 h2 h3 h4 h5 p ul{
     margin-bottom: 15px;
     background-color: #e1f1df;
 }
+.accordion-button:focus {
+    z-index: 3;
+    border-color: none;
+    outline: 0;
+    box-shadow: none;
+}
 .accordion-button::after{
     content: '\2b';
     font-family: 'font Awesome 6 Free';
